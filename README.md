@@ -36,6 +36,7 @@ The dataset consists of 2,123 manually annotated Reddit posts. It has the follow
 | `text`  | The raw content of the Reddit post                     |
 | `label` | The associated trading action: `buy`, `sell`, or `other` |
 
+---
 
 ## 👥 Authors
 
@@ -47,10 +48,4 @@ The dataset consists of 2,123 manually annotated Reddit posts. It has the follow
 
 [**Giancarlo Sperlì**](https://orcid.org/0000-0003-4033-3777), Department of Electrical Engineering and Information Technology, University of Naples Federico II, Naples, Italy
 
-
-
-
-## ✅ License
-
-This project is released under the [MIT License](LICENSE).
-
+---
