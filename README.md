@@ -29,7 +29,7 @@ All experiments were conducted using the FinReddit dataset on a machine equipped
 
 ### 🗂️ FinReddit-2K dataset
 
-This CSV file contains a sample of manually labeled Reddit posts. It has the following structure:
+The dataset consists of 2,123 manually annotated Reddit posts. It has the following structure:
 
 | Column  | Description                                            |
 |---------|--------------------------------------------------------|
