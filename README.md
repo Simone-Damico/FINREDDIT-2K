@@ -34,14 +34,17 @@ This CSV file contains a sample of manually labeled Reddit posts. It has the fol
 | Column  | Description                                            |
 |---------|--------------------------------------------------------|
 | `text`  | The raw content of the Reddit post                     |
-| `label` | The associated trading action: one of `buy`, `sell`, or `other` |
+| `label` | The associated trading action: `buy`, `sell`, or `other` |
 
 
 ## 👥 Authors
 
 [**Simone D'Amico**](https://orcid.org/0009-0002-2820-0277), Department of Electrical Engineering and Information Technology, University of Naples Federico II, Naples, Italy
+
 [**Andrea Maurino**](https://orcid.org/0000-0001-9803-3668), Department of Informatics, Systems and Communication, University of Milano-Bicocca, Milan, Italy
+
 [**Francesco Nicolò Osborne**](https://orcid.org/0000-0001-6557-3131), Department of Business and Law, University of Milano-Bicocca, Milan, Italy
+
 [**Giancarlo Sperlì**](https://orcid.org/0000-0003-4033-3777), Department of Electrical Engineering and Information Technology, University of Naples Federico II, Naples, Italy
 
 
