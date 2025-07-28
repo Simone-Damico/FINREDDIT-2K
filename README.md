@@ -43,7 +43,7 @@ This CSV file contains a sample of manually labeled Reddit posts. It has the fol
 
 [**Andrea Maurino**](https://orcid.org/0000-0001-9803-3668), Department of Informatics, Systems and Communication, University of Milano-Bicocca, Milan, Italy
 
-[**Francesco Nicolò Osborne**](https://orcid.org/0000-0001-6557-3131), Department of Business and Law, University of Milano-Bicocca, Milan, Italy
+[**Francesco Osborne**](https://orcid.org/0000-0001-6557-3131), Department of Business and Law, University of Milano-Bicocca, Milan, Italy
 
 [**Giancarlo Sperlì**](https://orcid.org/0000-0003-4033-3777), Department of Electrical Engineering and Information Technology, University of Naples Federico II, Naples, Italy
 
