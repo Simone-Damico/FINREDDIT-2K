@@ -7,14 +7,14 @@ The literature demonstrated that the dissemination and exchange of information o
 ---
 
 ## 📘 Introduction
-This project introduces the novel task of **Social Trading Action Detection (STAD)**, which goes beyond sentiment classification to directly infer trading actions from financial discussions. To support this task, we present **FinReddit**, a new manually annotated dataset of Reddit posts, and benchmark a variety of machine learning and large language models to assess their effectiveness in identifying these actions: *buy*, *sell*, or *other*.
+This project introduces the novel task of **Social Trading Action Detection (STAD)**, which goes beyond sentiment classification to directly infer trading actions from financial discussions. To support this task, we present **FinReddit-2K**, a new manually annotated dataset of Reddit posts, and benchmark a variety of machine learning and large language models to assess their effectiveness in identifying these actions: *buy*, *sell*, or *other*.
 
 This repository provides:
 
 - 📝 A manually annotated dataset of Reddit posts labeled as `buy`, `sell`, or `other`
 - 🐍  A Python module for text preprocessing, used to clean and prepare posts before modeling
 
-All experiments were conducted using the FinReddit dataset on a machine equipped with an NVIDIA A100-SXM4 GPU (80GB memory). We evaluated four families of models through a **5-fold stratified cross-validation**, ensuring class balance across folds.
+All experiments were conducted using the FinReddit-2K dataset on a machine equipped with an NVIDIA A100-SXM4 GPU (80GB memory). We evaluated four families of models through a **5-fold stratified cross-validation**, ensuring class balance across folds.
 
 ---
 
