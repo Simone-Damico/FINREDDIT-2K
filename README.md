@@ -31,10 +31,12 @@ All experiments were conducted using the FinReddit-2K dataset on a machine equip
 
 The dataset consists of 2,123 manually annotated Reddit posts. It has the following structure:
 
-| Column  | Description                                            |
-|---------|--------------------------------------------------------|
-| `text`  | The raw content of the Reddit post                     |
-| `label` | The associated trading action: `buy`, `sell`, or `other` |
+| Column      | Description                                              |
+|-------------|----------------------------------------------------------|
+| `subreddit` | The subreddit in which the Reddit post was published     |
+| `stock`     | The stock mentioned in the Reddit post                   |
+| `text`      | The raw content of the Reddit post                       |
+| `label`     | The associated trading action: `buy`, `sell`, or `other` |
 
 ---
 
